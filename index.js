@@ -7,7 +7,7 @@ class NoMoreDesyncMasterFinalEditionMasterKaseasGodPlanToStopWipingToStupidShitO
                 "73": 6,
                 "74": 7,
                 "75": 8,
-                "76": 8
+                "76": 8,
             },
             "e": {
                 "72": 4,
