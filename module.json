@@ -1,8 +1,8 @@
 {
-    "servers": ["https://raw.githubusercontent.com/Kaseaa/no-more-boss-desyncs/master/"],
-    "supportUrl": "https://github.com/Kaseaa/no-more-boss-desyncs/issues",
+    "servers": ["https://raw.githubusercontent.com/Kasea/no-more-boss-desyncs/master/"],
+    "supportUrl": "https://github.com/Kasea/no-more-boss-desyncs/issues",
     "dependencies": {
-        "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
+        "library": "https://raw.githubusercontent.com/tera-toolbox-mods/library/master/module.json"
     },
     "name": "no-more-boss-desyncs",
     "author": "Kasea"
